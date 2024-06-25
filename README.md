@@ -32,3 +32,6 @@ How to use:
 
 Tips:
 Fragrance Demo Formulas of certain accord or including certain ingredients can be searched by "the good scent company+ name of accord" on google. For example, to find the demo formulas of the rose accord, one can use the keyword of "the good scent company rose" to search, and click on the rose fragrance site on the good scent company. And then click on the "Fragrance Demo Formula" button on the website, and you will find a website with the formulas about your accord or containing your ingredient. Use that url for the scrapping.
+
+Future to do:
+Formalize this Project to let people use pip install to use
